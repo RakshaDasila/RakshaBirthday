@@ -675,7 +675,7 @@ function showConfetti(){
       // strings_1: [['四季的风吹动了',' 岁月的风铃,'],['奏响为你生日祝福的歌'],['生日快乐!!', 'Sharice',], ['新的一岁里,','愿灿烂阳光照亮你所有的日子'], ['愿美丽的鲜花,','开遍你要走过的每个地方'],['新的一岁，','要开心,要快乐,要幸福'],['现在,'],[' 就让小黄人..','为你庆祝生日吧哈哈哈哈']],
 //今天有了你世界更精彩，今天有了你星空更灿烂，今天因为你人间更温暖，今天因为你我觉得更幸福!祝你生日快乐!
       //用最激动的心情，编辑一条短信，在这个时刻为你送上，因为今天是你的生日，距离再远，也无法阻隔想要对你说，生日快乐。
-      strings_1: [["  Happy birthday!", "  Raksha  "], ["   May all happiness,"], ["all luck"], [" always surround", "you  "],["You are a ","beautiful person", "inside and out"],["I hope that you","remember that","today and always."],["Let me tell u,","You are a gift yourself "],["You deserve the"," best of everything"] ,["I wish you","a wonderful life","filled with","love and happiness"], ["Happy Birthday Raksha","Here are some of ur Life's Moments"]],
+      strings_1: [["  Happy birthday!", "  Raksha  "], ["   May all happiness,"], ["all luck"], [" always surround", "you  "],["You are a ","beautiful person", "inside and out"],["I hope that you","remember that","today and always."],["Let me tell u,","    You are a gift yourself "],["You deserve the"," best of everything"] ,["I wish you","a wonderful life","filled with","love and happiness"], ["Happy Birthday Raksha","Here are some of","ur Life's Moments"]],
 
       charSize: 20,
       // charSpacing: 22,
